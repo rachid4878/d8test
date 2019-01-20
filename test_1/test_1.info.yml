@@ -1,0 +1,8 @@
+name: test1
+type: module
+description: Say test
+package: Custom
+core: 8.x
+dependencies:
+- node
+- block

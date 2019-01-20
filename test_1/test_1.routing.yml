@@ -1,0 +1,8 @@
+test_1:
+    path: /test1
+    defaults:
+        
+        _form: 'Drupal\test_1\Controller\test1Controller'
+        _title: 'Ajax Example'
+    requirements:
+        _permission: 'access content'
